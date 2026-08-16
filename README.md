@@ -7,3 +7,4 @@ here is some things!:
 - i know some languages
 - i am a beginner
 - hope you like my projects!
+- link to my account is: https://github.com/toasterdeveloping
